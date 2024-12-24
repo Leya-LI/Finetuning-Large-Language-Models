@@ -18,7 +18,7 @@ The course is divided into several chapters, each unraveling a specific facet of
 ## Repository Contents
 
 This repository serves as a treasure trove of resources to deepen your understanding and implementation of LLM finetuning:
-- **codes/**: Jupyter notebooks that provide interactive, step-by-step guidance through the techniques covered in the course. 
+- **Codes/**: Jupyter notebooks that provide interactive, step-by-step guidance through the techniques covered in the course. 
 
 
 ## Course Resources
